@@ -12,7 +12,7 @@
   * http://nashvillesoftwareschool.com/
 * Co-host of the _**Reference Counting Podcast**_
   * w/ Taylor Hutchison [@taylorhutchison](https://twitter.com/taylorhutchison)
-  * https://refcountpodcast.com
+  * https://www.refcountpodcast.com
   * [@refcountpodcast](https://twitter.com/RefCountPodcast)
 * Twitter / LinkedIn
   * [@askingalot](https://twitter.com/askingalot)
